@@ -17,11 +17,12 @@
       "error",
       {
         "trailingComma": "all",
-        "endOfLine": "lf",
+        "endOfLine": "auto",
         "semi": false,
         "singleQuote": false,
         "printWidth": 100,
-        "tabWidth": 2
+        "tabWidth": 2,
+        "useTabs": false
       }
     ]
   }
